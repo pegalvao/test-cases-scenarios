@@ -39,7 +39,6 @@ test-cases-scenarios/
 ├── sauce-demo/           # Projeto Sauce Demo
 │   ├── test-cases/       # Casos de teste
 │   ├── bug-reports/      # Relatórios de bugs
-│   ├── test-plan/        # Plano de teste
 │   └── evidences/        # Prints e evidências
 │
 ├── automation-exercise/  # Projeto Automation Exercise
@@ -48,7 +47,6 @@ test-cases-scenarios/
 └── templates/            # Templates reutilizáveis
     ├── template-test-case.md
     ├── template-bug-report.md
-    └── template-test-plan.md
 ```
 
 ---
@@ -83,9 +81,9 @@ Todos os casos de teste seguem a estrutura:
 
 | Projeto | Casos de Teste | Bugs Encontrados | Taxa de Sucesso |
 |---------|---------------|------------------|-----------------|
-| Sauce Demo | 0 | 0 | 0% |
+| Sauce Demo | 1 | 0 | 100% |
 
-| **Total** | **0** | **0** | **0%** |
+| **Total** | **1** | **0** | **100%** |
 
 ---
 
@@ -101,7 +99,7 @@ Todos os casos de teste seguem a estrutura:
 ## 👨‍💻 Autor
 
 **Pedro Evaristo**  
-QA Júnior | Analista de Testes
+Analista de suporte| testes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-evaristo-71a727216/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pegalvao)
