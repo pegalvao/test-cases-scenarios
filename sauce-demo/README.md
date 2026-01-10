@@ -90,7 +90,7 @@ sauce-demo/
 
 - **Taxa de Sucesso:** 100 % (1 de 1 caso passou)
 - **Bugs por Funcionalidade:**  0 (bugs em 1 teste)
-- **Cobertura de Testes:** 100% das funcionalidades principais
+- **Cobertura de Testes:** ?% das funcionalidades principais
 
 ---
 
@@ -107,7 +107,7 @@ sauce-demo/
 
 - Todos os testes foram executados em ambiente desktop
 - Resolução utilizada: 1920x1080
-- Navegador: Chrome versão 120
+- Navegador: Chrome versão 135
 - Data da última execução: [10/01/2026]
 
 ---
