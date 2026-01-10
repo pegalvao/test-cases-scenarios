@@ -57,7 +57,6 @@ test-cases-scenarios/
 2. Leia o README específico do projeto
 3. Consulte os casos de teste na pasta `test-cases/`
 4. Veja os bugs encontrados em `bug-reports/`
-5. Confira o plano de teste em `test-plan/`
 
 ---
 
