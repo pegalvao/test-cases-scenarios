@@ -1,0 +1,87 @@
+# TC 2 - [Login Usuário Inválido]
+
+## 📋 Informações do Teste
+
+| Campo | Descrição |
+|-------|-----------|
+| **ID** | TC 2 |
+| **Título** | Verificar o login com um usuário inválido |
+| **Módulo** | Login |
+| **Prioridade** | 🔴 Alta |
+| **Tipo** | Funcional  |
+| **Autor** | Pedro Evaristo |
+| **Data de Criação** | 10/01/2026 |
+
+---
+
+## 🎯 Objetivo
+
+Validar que não será possível realizar o login com um usuário inválido utilizando a senha padrão.
+
+---
+
+## ⚙️ Pré-condições
+
+-Acessar o Chrome
+- Acessar utilizar a URL: https://www.saucedemo.com/
+- Utilizar credenciais que não estejam na página inicial.
+
+
+---
+
+## 📝 Passos para Execução
+
+| # | Ação | Resultado Esperado |
+|---|------|-------------------|
+| 1 | Acessar a URL : https://www.saucedemo.com/ | A página de login é exebida com os campos de username, senha e todas as credenciais que podem ser utilizadas|
+| 2 | Preencher o campo de usuário com "test_user" ou um nome de usuário diferente dos que estão descritos na página inicial| O texto é preenchido sem erros |
+| 3 | Preencher o campo de senha com "secret_sauce" | A senha é preenchida sem erros e seu conteúdo não pode ser visível |
+| 4 | Clicar no botão de Login | O sistema processa a requisição |
+| 5 | Aguardar a mensagem de erro| Uma mensagem sobre o usuário e senha não darem match com nenhum usuário do sistema aparece na tela.
+---
+
+## ✅ Resultado Esperado
+
+Após clicar no botão de login o sistema deve : 
+1. Validar se as credenciais são válidas
+2. Exibir a mensagem de que o usuário e senha não existem
+
+---
+
+## 📊 Resultado Obtido
+
+**Status:** ✅ PASS
+
+**Descrição:** A mensagem de erro aparece una tela após o sistema verificar que o usuário não existe.
+
+---
+
+## 📸 Evidências
+
+![Screenshot](../evidences/screenshots/LoginTestUser.png)
+
+![Screenshot](../evidences/screenshots/LoginTestUserError.png)
+
+---
+
+## 🐛 Bugs Relacionados
+
+- Nenhum bug encontrado nesse teste.
+
+---
+
+## 📌 Observações
+
+Adicione qualquer informação adicional relevante:
+
+- Observação 1
+- Observação 2
+
+---
+
+## 🔄 Histórico de Execuções
+
+| Data | Executor | Status | Observações |
+|------|----------|--------|-------------|
+| DD/MM/AAAA | [Nome] | ✅ PASS | - |
+| DD/MM/AAAA | [Nome] | ❌ FAIL | Bug encontrado |
