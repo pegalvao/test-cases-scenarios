@@ -52,7 +52,7 @@ Após clicar no botão de login o sistema deve :
 
 **Status:** ✅ APROVADO
 
-**Descrição:** A mensagem de erro aparece una tela após o sistema verificar que o usuário não existe.
+**Descrição:** A mensagem de erro apareceu na tela após o sistema verificar que o usuário não existe.
 
 ---
 
@@ -73,8 +73,8 @@ Após clicar no botão de login o sistema deve :
 ## 📌 Observações
 
 - O sistema verificou que a tentativa de login foi de um usuário que não existe.
-- Não foi possível acessar a página de produtos
-- Uma mensagem de erro apareceu na tela
+- Não foi possível acessar a página de produtos.
+- Uma mensagem de erro apareceu na tela.
 
 ---
 
