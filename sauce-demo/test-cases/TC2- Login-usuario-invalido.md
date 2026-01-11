@@ -83,4 +83,4 @@ Após clicar no botão de login o sistema deve :
 | Data | Executor | Status | Observações |
 |------|----------|--------|-------------|
 | 10/01/2026| Pedro Evaristo | ✅ APROVADO| Primeira tentativa- sucesso |
-| 11/01/2026 | Pedro Evaristo| ✅ APROVADO|| Segunda tentativa - sucesso |
+| 11/01/2026 | Pedro Evaristo| ✅ APROVADO| Segunda tentativa - sucesso |
