@@ -70,7 +70,7 @@ Todos os casos de teste seguem a estrutura:
 - **Passos:** Ações detalhadas
 - **Resultado Esperado:** Comportamento esperado
 - **Resultado Obtido:** O que realmente aconteceu
-- **Status:** Pass/Fail
+- **Status:** Aprovado/Falha
 - **Prioridade:** Alta/Média/Baixa
 - **Evidências:** Links para screenshots
 
@@ -80,9 +80,9 @@ Todos os casos de teste seguem a estrutura:
 
 | Projeto | Casos de Teste | Bugs Encontrados | Taxa de Sucesso |
 |---------|---------------|------------------|-----------------|
-| Sauce Demo | 1 | 0 | 100% |
+| Sauce Demo | 2 | 0 | 100% |
 
-| **Total** | **1** | **0** | **100%** |
+| **Total** | **2** | **0** | **100%** |
 
 ---
 

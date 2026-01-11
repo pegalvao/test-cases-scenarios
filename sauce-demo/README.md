@@ -69,6 +69,7 @@ sauce-demo/
 
 ### Login
 - [TC1](./test-cases/TC1-Login-valido.md) - Login com credenciais válidas
+- [TC2](./test-cases/TC2-%20Login-usuario-invalido.md) - Login com credenciais inválidas
 
 ### Produtos e Carrinho
 
