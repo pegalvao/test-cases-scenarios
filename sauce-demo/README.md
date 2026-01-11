@@ -34,11 +34,11 @@ A aplicação fornece os seguintes usuários para teste:
 
 | Categoria | Total de Casos | Pass | Fail | Cobertura |
 |-----------|----------------|------|------|-----------|
-| Login | 6 | 1 |  | 16,67% |
+| Login | 6 | 2 |  | 33,34% |
 | Produtos | 0 | 0| 0 | 0% |
 | Carrinho | 0 | 0| 0 | 0% |
 | Checkout | 0 | 0| 0 | 0% |
-| **TOTAL** | **6** | **1** | **** | **16,67** |
+| **TOTAL** | **6** | **2** | **** | **33,34** |
 
 ---
 
@@ -109,7 +109,7 @@ sauce-demo/
 - Todos os testes foram executados em ambiente desktop
 - Resolução utilizada: 1920x1080
 - Navegador: Chrome versão 135
-- Data da última execução: [10/01/2026]
+- Data da última execução: [11/01/2026]
 
 ---
 
