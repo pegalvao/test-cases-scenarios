@@ -50,7 +50,7 @@ Após clicar no botão de login o sistema deve :
 
 ## 📊 Resultado Obtido
 
-**Status:** ✅ PASS
+**Status:** ✅ APROVADO
 
 **Descrição:** A mensagem de erro aparece una tela após o sistema verificar que o usuário não existe.
 
@@ -72,10 +72,9 @@ Após clicar no botão de login o sistema deve :
 
 ## 📌 Observações
 
-Adicione qualquer informação adicional relevante:
-
-- Observação 1
-- Observação 2
+- O sistema verificou que a tentativa de login foi de um usuário que não existe.
+- Não foi possível acessar a página de produtos
+- Uma mensagem de erro apareceu na tela
 
 ---
 
@@ -83,5 +82,5 @@ Adicione qualquer informação adicional relevante:
 
 | Data | Executor | Status | Observações |
 |------|----------|--------|-------------|
-| DD/MM/AAAA | [Nome] | ✅ PASS | - |
-| DD/MM/AAAA | [Nome] | ❌ FAIL | Bug encontrado |
+| 10/01/2026| Pedro Evaristo | ✅ APROVADO| Primeira tentativa- sucesso |
+| 11/01/2026 | Pedro Evaristo| ✅ APROVADO|| Segunda tentativa - sucesso |
