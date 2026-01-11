@@ -24,7 +24,7 @@ Validar que um usuário consegue realizar o login com sucesso utilizando credenc
 - Utilizar o navegador Chrome
 - Acessar a URL : https://www.saucedemo.com/
 - Utilizar as credenciais :
-    Login : standard_user
+    Login : standard_user,
     Senha : secret-sauce
 
 ---
