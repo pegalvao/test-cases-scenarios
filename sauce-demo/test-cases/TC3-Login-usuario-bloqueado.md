@@ -33,7 +33,7 @@ Verificar o comportamento do site no caso do usuário ter sido bloqueado.
 | # | Ação | Resultado Esperado |
 |---|------|-------------------|
 | 1 | Acessar a URL : https://www.saucedemo.com/ | A página de login é exibida com os campos de username, senha e todas as credenciais que podem ser utilizadas|
-| 2 | Preencher o campo de username com "locked_out_us"| O texto é preenchido sem erros |
+| 2 | Preencher o campo de username com "locked_out_user"| O texto é preenchido sem erros |
 | 3 | Preencher o campo de password com "secret-sauce" | A senha é preenchida sem erros e seu conteúdo não pode ser visível |
 | 4 | Clicar no botão de Login | O sistema processa a requisição |
 | 5 | Aguardar a mensagem de usuário bloqueado| Uma mensagem sobre o bloqueio de usuário aparece na tela.

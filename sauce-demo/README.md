@@ -29,6 +29,8 @@ A aplicação fornece os seguintes usuários para teste:
 |---------|-------|---------------|
 | `standard_user` | `secret_sauce` | ✅ Usuário padrão sem problemas |
 | `test_user` | `secret_sauce` | ✅ Usuário inválido não consegue acessar|
+| `locked_out_userr` | `secret_sauce` | ✅ Usuário bloqueado não consegue acessar|
+
 
 ---
 
@@ -36,11 +38,11 @@ A aplicação fornece os seguintes usuários para teste:
 
 | Categoria | Total de Casos | Pass | Fail | Cobertura |
 |-----------|----------------|------|------|-----------|
-| Login | 6 | 2 |  | 33,34% |
+| Login | 6 | 3 |  | 50,01% |
 | Produtos | 0 | 0| 0 | 0% |
 | Carrinho | 0 | 0| 0 | 0% |
 | Checkout | 0 | 0| 0 | 0% |
-| **TOTAL** | **6** | **2** | **** | **33,34** |
+| **TOTAL** | **6** | **3** | **** | **50,01** |
 
 ---
 
@@ -71,7 +73,8 @@ sauce-demo/
 
 ### Login
 - [TC1](./test-cases/TC1-Login-valido.md) - Login com credenciais válidas
-- [TC2](./test-cases/TC2-%20Login-usuario-invalido.md) - Login com credenciais inválidas
+- [TC2](./test-cases/TC2-Login-usuario-invalido.md) - Login com credenciais inválidas
+- [TC3](./test-cases/TC3-Login-usuario-bloqueado.md) - Login de usuário bloqueado
 
 ### Produtos e Carrinho
 
@@ -91,8 +94,8 @@ sauce-demo/
 
 ## 📈 Métricas de Qualidade
 
-- **Taxa de Sucesso:** 100 % (1 de 1 caso passou)
-- **Bugs por Funcionalidade:**  0 (bugs em 1 teste)
+- **Taxa de Sucesso:** 100 % (3 de 3 caso passou)
+- **Bugs por Funcionalidade:**  0 (bugs em 3 testes)
 - **Cobertura de Testes:** ?% das funcionalidades principais
 
 ---
@@ -111,7 +114,7 @@ sauce-demo/
 - Todos os testes foram executados em ambiente desktop
 - Resolução utilizada: 1920x1080
 - Navegador: Chrome versão 135
-- Data da última execução: [11/01/2026]
+- Data da última execução: [14/01/2026]
 
 ---
 
