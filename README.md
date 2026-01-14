@@ -80,9 +80,9 @@ Todos os casos de teste seguem a estrutura:
 
 | Projeto | Casos de Teste | Bugs Encontrados | Taxa de Sucesso |
 |---------|---------------|------------------|-----------------|
-| Sauce Demo | 2 | 0 | 100% |
+| Sauce Demo | 3 | 0 | 100% |
 
-| **Total** | **2** | **0** | **100%** |
+| **Total** | **3** | **0** | **100%** |
 
 ---
 
