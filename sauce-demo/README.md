@@ -27,6 +27,7 @@ A aplicação fornece os seguintes usuários para teste:
 | Usuário | Senha | Comportamento |
 |---------|-------|---------------|
 | `standard_user` | `secret_sauce` | ✅ Usuário padrão sem problemas |
+| `test_user` | `secret_sauce` | ✅ Usuário inválido não consegue acessar|
 
 ---
 
