@@ -5,7 +5,7 @@
 | Campo | Descrição |
 |-------|-----------|
 | **ID** | TC 3 |
-| **Título** | [Título descritivo do teste] |
+| **Título** | [Verificar o login com usuário bloqueado] |
 | **Módulo** | [Login] |
 | **Prioridade** | 🔴 Alta |
 | **Tipo** | Funcional |
