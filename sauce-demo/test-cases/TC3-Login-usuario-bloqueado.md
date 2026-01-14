@@ -57,8 +57,6 @@ Após clicar no botão de login o sistema deve :
 
 ## 📸 Evidências
 
-[Adicione screenshots ou vídeos aqui]
-
 ![Screenshot](../evidences/screenshots/Login.png)
 ![Screenshot](../evidences/screenshots/LoginBlock.png)
 
