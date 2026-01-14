@@ -98,7 +98,7 @@ Todos os casos de teste seguem a estrutura:
 ## 👨‍💻 Autor
 
 **Pedro Evaristo**  
-Analista de suporte| testes
+Analista de suporte| Tester
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-evaristo-71a727216/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pegalvao)
