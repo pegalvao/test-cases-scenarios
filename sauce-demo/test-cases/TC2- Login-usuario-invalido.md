@@ -23,7 +23,7 @@ Validar que não será possível realizar o login com um usuário inválido util
 ## ⚙️ Pré-condições
 
 -Acessar o Chrome
-- Acessar utilizar a URL: https://www.saucedemo.com/
+- Acessar a URL: https://www.saucedemo.com/
 - Utilizar credenciais que não estejam na página inicial.
 
 
@@ -33,7 +33,7 @@ Validar que não será possível realizar o login com um usuário inválido util
 
 | # | Ação | Resultado Esperado |
 |---|------|-------------------|
-| 1 | Acessar a URL : https://www.saucedemo.com/ | A página de login é exebida com os campos de username, senha e todas as credenciais que podem ser utilizadas|
+| 1 | Acessar a URL : https://www.saucedemo.com/ | A página de login é exibida com os campos de username, senha e todas as credenciais que podem ser utilizadas|
 | 2 | Preencher o campo de usuário com "test_user" ou um nome de usuário diferente dos que estão descritos na página inicial| O texto é preenchido sem erros |
 | 3 | Preencher o campo de senha com "secret_sauce" | A senha é preenchida sem erros e seu conteúdo não pode ser visível |
 | 4 | Clicar no botão de Login | O sistema processa a requisição |

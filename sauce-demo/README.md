@@ -17,6 +17,7 @@ Este projeto contém testes para as seguintes funcionalidades:
 
 - **Login**
   - Login com credenciais válidas
+  - Login com credenciais inválidas
 
 ---
 
